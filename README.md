@@ -1,2 +1,3 @@
-# kreindo-demo
-Kreindo web design agency demo site
+# Kreindo demo
+
+Live agency demo site for Kreindo.
